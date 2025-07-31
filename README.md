@@ -1,5 +1,5 @@
-# automa-o.python
-automatização para desenho no paint
+# automacao.python
+automatizacao para desenho no paint
 import pyautogui
 
 pyautogui.press('win')
